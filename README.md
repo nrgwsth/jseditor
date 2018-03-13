@@ -1,1 +1,1 @@
-A simple js editor made with javascript. Click to see it [here](nrgwsth.github.io/jseditor).
+A simple js editor made with javascript. Click to see it [here](https://nrgwsth.github.io/jseditor).
